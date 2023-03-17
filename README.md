@@ -1,17 +1,14 @@
-Hi! My name is Alejandro and I'm a software engineering student. I love programming and making projects, you can see my projects on the repository tab!
+# Hi! I'm Alejandro Lorenzo 🙋‍♂️ and I ❤️ work hard.
 
 # Programming languages
 
-##I've worked with many languages, for example:
-  - C
-  - Java
-  - Python
-  - Solidity
-  - :money_mouth_face: (this isn't a language... I think)
-I am enthusiastic with the develompent and the world of software:robot:.
-Actually, I'm studying to be a good full stack developer. My personal values are the hardwork and the entrepreneurship. :sunglasses:
+I've worked with C, Python, Java, Javascript, a lot of frameworks like Django, Flask, Vue.js and Neo.js. Moreover, I have experience with databases development using postgres and Dveaber, I love it 😍.
 
-# Languages
+In addition, I love the blockchain and Web3 world and I am working to be a good backend developer in this world. 📚
 
-I'm native in spanish but actually I'm studying english.:man_student:
+# My personal programming projects
 
+I have personal projects in addition to my university workload, but due to time constraints, I can only work on them intermittently.
+
+- 🖼[BuildspaceNFTS](https://github.com/loreenzo02/BuildSpace_NFTs): I created NFT's with this project and I learned how they work.
+- 🤖[TravelAI](https://github.com/loreenzo02/Travel-AI): This is an AI based on text-davinci-003 technology from OpenAI. This send prompts to the api and the AI creates you a travel itinerary.
