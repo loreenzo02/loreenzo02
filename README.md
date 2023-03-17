@@ -1,10 +1,10 @@
-# Hi! I'm Alejandro Lorenzo 🙋‍♂️ and I ❤️ work hard.
+# Hi! I'm Alejandro Lorenzo 🙋‍♂️ and I ❤️ hard work.
 
 # Programming languages
 
-I've worked with C, Python, Java, Javascript, a lot of frameworks like Django, Flask, Vue.js and Neo.js. Moreover, I have experience with databases development using postgres and Dveaber, I love it 😍.
+I've worked with C, Python, Java, Javascript, a lot of frameworks like Django, Flask, Vue.js and Neo.js. Moreover, I have experience with databases development using Postgres and Dveaber, I love it 😍.
 
-In addition, I love the blockchain and Web3 world and I am working to be a good backend developer in this world. 📚
+In addition, I love the Blockchain and Web3 world and I am working to be a good backend developer in this world. 📚
 
 # My personal programming projects
 
