@@ -2,7 +2,7 @@ Hi! My name is Alejandro and I'm a software engineering student. I love programm
 
 # Programming languages
 
-I've worked with many languages, this are C, Java, Python, Solidity... I am enthusiastic with the develompent and the world of software. Actually, I'm studying to be a good full stack developer. My personal values are the hardwork and the entrepreneurship.
+I've worked with many languages, this are C, Java, Python, Solidity...:money_mouth_face: I am enthusiastic with the develompent and the world of software:robot:. Actually, I'm studying to be a good full stack developer. My personal values are the hardwork and the entrepreneurship. :sunglasses:
 
 # Languages
 
